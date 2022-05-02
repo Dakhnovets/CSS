@@ -1,0 +1,31 @@
+img {float: left}
+* {
+  color: #2c3a4b;
+}
+div > p {
+  color: peru;
+}
+span {
+    color: rgb(144, 61, 185);
+  }
+#identifier {
+    color:red;
+  }
+.class1 {
+    color: #236ac6;
+}
+.class2 {
+  color: olivedrab;
+}  
+.class2 + .class3 {
+  color:rgb(112, 216, 122);
+}
+.wrap > small {
+  color: green;
+}
+h2 ~ .family {
+  color: hotpink;
+}
+section span {
+  color:blue;
+}
