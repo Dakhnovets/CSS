@@ -1,5 +1,5 @@
 img {float: left}
-img {float: right}
+img[title] {float: right}
 * {
   color: #2c3a4b;
 }
